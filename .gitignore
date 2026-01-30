@@ -1,0 +1,14 @@
+# Python garbage
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/
+dataset_raw/
+dataset_final/
+
+*.pth
+*.pt
+
+.idea/
+.vscode/
