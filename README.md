@@ -50,7 +50,8 @@
   pip install -r requirements.txt
   ```
 3. **Скачать веса модели Веса модели (best_arch_resnet_50.pth)**
-4. **Запуск инференса**
+   Скачать можно [отсюда](https://drive.google.com/file/d/1xcEkGZzcMQHl69NQttf7lwzD3AOTpefV/view?usp=sharing)
+5. **Запуск инференса**
 
 ```Python
 # Пример запуска в ноутбуке notebooks/03_inference_demo.ipynb
