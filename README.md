@@ -54,6 +54,6 @@
 5. **Запуск инференса**
 
 ```Python
-# Пример запуска в ноутбуке notebooks/03_inference_demo.ipynb
+# Пример запуска в ноутбуке notebooks/inference.ipynb
 predict_image('path/to/image.jpg', model, transform, classes)
 ```
